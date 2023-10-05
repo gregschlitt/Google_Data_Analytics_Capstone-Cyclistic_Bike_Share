@@ -1,7 +1,7 @@
 # Google Data Analytics: Capstone
 ## Cyclistic Bike Share User Analysis
 
-![Cyclistic](https://user-images.githubusercontent.com/)
+![Cyclistic](https://github.com/gregschlitt/Google-DA-Capstone---Cyclistic-Bike-Share/blob/main/Cyclistic%20Logo.png)
 
 This analysis is an optional Capstone project from the [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics) on Coursera. 
 
